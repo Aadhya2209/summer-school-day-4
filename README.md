@@ -37,4 +37,5 @@
 
 ## 👀 Preview
 
-![image](https://github.com/user-attachments/assets/8f10d3da-f320-4feb-a464-a2e921fe9a0c)
+![Screenshot 2025-06-29 175909](https://github.com/user-attachments/assets/741f9f2b-c740-45df-ae2c-9eda8948a19e)
+
