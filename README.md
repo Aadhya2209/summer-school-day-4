@@ -35,8 +35,3 @@
 
 ---
 
-## 👀 Preview
-![Screenshot 2025-06-29 180125](https://github.com/user-attachments/assets/ad8ade0b-1620-4d7d-9916-47c51196cc94)
-
-![Screenshot 2025-06-29 175909](https://github.com/user-attachments/assets/741f9f2b-c740-45df-ae2c-9eda8948a19e)
-
